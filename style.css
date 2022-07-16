@@ -72,11 +72,9 @@ nav {
 }
 
 .elem1 {
-  background: url('./assets/images/beks.jpg') no-repeat;
-  background-size: cover;
+  
 }
 
 .elem2 {
-  background: url('./assets/images/eldiyar.jpg') no-repeat;
   background-size: cover;
 }
